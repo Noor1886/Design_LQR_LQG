@@ -9,7 +9,7 @@ The project focuses on Building an LQR & LQG Controller and also solving the abo
 
 
 
-## State Space Representation of Linearized System
+## State Space Representation of the System
 ![state_space_eqns](https://user-images.githubusercontent.com/102131442/222045485-ad26013d-6b3d-4f4f-9557-1d3e4745ed3d.png)
 
 
